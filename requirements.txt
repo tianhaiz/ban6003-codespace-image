@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+nycflights13
+nbconvert
+ipykernel
+setuptools<81
