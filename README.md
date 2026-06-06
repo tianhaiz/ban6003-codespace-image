@@ -11,7 +11,7 @@ ghcr.io/tianhaiz/ban6003-codespace:2026f
 The image uses the Microsoft Dev Containers Miniconda base image, pins the conda `base` environment to Python 3.12, installs the course Python packages, and registers the notebook kernel:
 
 ```text
-base(BAN6003)
+base
 ```
 
 Assignment repositories should reference this image in `.devcontainer/devcontainer.json`.
